@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"dbfoglab.products"}],"uuid":"1734d13f836b4f2eb7ddc810cfdbe0c6"}
